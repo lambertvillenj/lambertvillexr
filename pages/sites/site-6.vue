@@ -75,7 +75,7 @@ async function loadSystems() {
       <img
         class="photo-slide-show"
         :src="usePublic('assets/sites/site6/photos/slide4.jpg')"
-        description="A high-tide flood caused by Hurricane Ida."
+        description="Floodwaters resulting by Hurricane Ida."
       />
       <img
         class="photo-slide-show"
@@ -85,7 +85,7 @@ async function loadSystems() {
       <img
         class="photo-slide-show"
         :src="usePublic('assets/sites/site6/photos/slide7.jpg')"
-        description="The Rosso family bought the home in 1920 and held it for 103 years until Hurricane Ida tore it down."
+        description="The Rosso family bought the home in 1920 and held it for 103 years until Hurricane Ida washed it away."
       />
       <img
         class="photo-slide-show"

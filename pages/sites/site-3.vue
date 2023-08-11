@@ -29,9 +29,9 @@ async function loadSystems() {
         loop="true"
         width="160"
         height="90"
-        :src="usePublic('assets/sites/site3/trash-video.mp4')"
+        :src="usePublic('assets/sites/site3/DamageAndDebrie.mp4')"
         crossorigin="anonymous"
-        description="View the cleanup efforts after Hurricane Ida."
+        description="View the cleanup efforts after Hurricane Irene."
       ></video>
       <audio
         id="interview"

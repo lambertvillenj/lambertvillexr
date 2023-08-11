@@ -36,7 +36,7 @@ async function loadSystems() {
         loop="true"
         width="160"
         height="90"
-        :src="usePublic('assets/videos/trash-video.mp4')"
+        :src="usePublic('assets/videos/DamageAndDebrie.mp4')"
         crossorigin="anonymous"
       ></video>
     </a-assets>
