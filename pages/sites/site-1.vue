@@ -38,7 +38,7 @@ async function loadSystems() {
         class="slide-show"
         :src="usePublic('assets/sites/site1/slide3.jpg')"
         title="ACME Building"
-        description="The Lambertville ACME screening room was reconstructed into the Justice Center."
+        description="The Lambertville ACME market was reconstructed into the Justice Center."
       />
       <img
         class="slide-show"
@@ -62,7 +62,7 @@ async function loadSystems() {
         :src="usePublic('assets/sites/site1/drone-river.mp4')"
         crossorigin="anonymous"
         title="Delaware River Canal"
-        description="View a drone shot of the entire canal."
+        description="View drone footage of the canal at this location."
       ></video>
       <audio
         class="music"
