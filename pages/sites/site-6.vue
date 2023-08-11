@@ -75,7 +75,7 @@ async function loadSystems() {
       <img
         class="photo-slide-show"
         :src="usePublic('assets/sites/site6/photos/slide4.jpg')"
-        description="Floodwaters resulting by Hurricane Ida."
+        description="Floodwaters resulting from Hurricane Ida."
       />
       <img
         class="photo-slide-show"
